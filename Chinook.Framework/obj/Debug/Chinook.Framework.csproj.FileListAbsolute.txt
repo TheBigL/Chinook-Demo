@@ -7,3 +7,13 @@ C:\Users\dgilleland\Documents\GitHub\2016-Sep-DMIT-2018-In-Class-A02\Chinook Dem
 C:\Users\dgilleland\Documents\GitHub\2016-Sep-DMIT-2018-In-Class-A02\Chinook Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\dgilleland\Documents\GitHub\2016-Sep-DMIT-2018-In-Class-A02\Chinook Demo\Chinook.Framework\obj\Debug\Chinook.Framework.dll
 C:\Users\dgilleland\Documents\GitHub\2016-Sep-DMIT-2018-In-Class-A02\Chinook Demo\Chinook.Framework\obj\Debug\Chinook.Framework.pdb
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Chinook.Framework.dll.config
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Chinook.Framework.dll
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Chinook.Framework.pdb
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.dll
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.pdb

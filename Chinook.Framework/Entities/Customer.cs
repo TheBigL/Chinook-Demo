@@ -52,5 +52,6 @@ namespace Chinook.Framework.Entities
         public virtual Employee Employee { get; set; }
 
         public virtual ICollection<Invoice> Invoices { get; set; }
+        public string CompanyName { get; internal set; }
     }
 }

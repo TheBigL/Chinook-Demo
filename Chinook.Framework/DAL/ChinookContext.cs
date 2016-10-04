@@ -10,6 +10,11 @@ namespace Chinook.Framework.DAL
         public ChinookContext()
             : base("name=ChinookDb")
         {
+            /*This is an alternatice to using web.config to make sure that the Entity Framework 
+            doesn't create the database if it can't find the database based on the 
+            connection string information.
+            */
+            Database.SetInitializer<ChinookContext>(null);
         }
 
         public virtual DbSet<Album> Albums { get; set; }
