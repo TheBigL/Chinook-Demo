@@ -14,6 +14,5 @@ C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityF
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.xml
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.dll
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.pdb

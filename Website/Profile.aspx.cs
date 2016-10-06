@@ -17,6 +17,14 @@ public partial class Profile : System.Web.UI.Page
             CustomerManager manager = new CustomerManager();
             var theProfile = manager.GetProfile(customerID);
             //TODO: Get the rest of the items here!
+            FirstName.Text = theProfile.FirstName;
+            LastName.Text = theProfile.LastName;
+            CompanyName.Text = theProfile.CompanyName;
+            StreetAddress.Text = theProfile.StreetAddress;
+            City.Text = theProfile.City;
+            State.Text = theProfile.State;
+            Country.Text = theProfile.Country;
+            PostalCode.Text = theProfile.PostalCode;
         }
     }
 }
