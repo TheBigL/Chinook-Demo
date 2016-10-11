@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNet.Identity;
+﻿using Chinook.Framework.BLL.Security;
+using Chinook.Framework.Entities.Security;
+using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 using System;
 using System.Web;
 using Website;
+using Website.Website;
 
 public partial class Account_RegisterExternalLogin : System.Web.UI.Page
 {

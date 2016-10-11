@@ -18,7 +18,7 @@
              </div>
              <div>
                  <h2>Contact Details</h2>
-                 
+                 TODO: Email, phone, fax
              </div>
              <div>
                  <h2>Purchase History</h2>

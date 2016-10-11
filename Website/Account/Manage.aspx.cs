@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNet.Identity;
+﻿using Chinook.Framework.BLL.Security;
+using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using Website;
+using Website.Website;
 
 public partial class Account_Manage : System.Web.UI.Page
 {
