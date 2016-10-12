@@ -12,12 +12,12 @@ C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Chinook
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Chinook.Framework.pdb
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.dll
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.xml
-C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.dll
-C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.pdb
-C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.dll
+C:\Users\Owner\Documents\GitHub\Chinook-Demo\Chinook.Framework\obj\Debug\Chinook.Framework.pdb

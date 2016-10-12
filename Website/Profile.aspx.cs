@@ -25,6 +25,9 @@ public partial class Profile : System.Web.UI.Page
             State.Text = theProfile.State;
             Country.Text = theProfile.Country;
             PostalCode.Text = theProfile.PostalCode;
+            Email.Text = theProfile.Email;
+            Phone.Text = theProfile.Phone;
+            Fax.Text = theProfile.Fax;
         }
     }
 }

@@ -1,8 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Profile.aspx.cs" Inherits="Profile" MasterPageFile="~/Site.master" %>
+﻿<%@ Page Language="C#" Title="Your Profile" AutoEventWireup="true" CodeFile="Profile.aspx.cs" Inherits="Profile" MasterPageFile="~/Site.master" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     
- <h1 class="page_header">Your Profile</h1>
+<h1 class="front_page">Your Profile</h1>
      <div class="row">
          <div class="col-md-12">
              <div>
@@ -19,6 +19,9 @@
              <div>
                  <h2>Contact Details</h2>
                  TODO: Email, phone, fax
+                 <asp:Label ID="Email" runat="server" />
+                 <asp:Label ID="Phone" runat="server" />
+                 <asp:Label ID="Fax" runat="server" />
              </div>
              <div>
                  <h2>Purchase History</h2>
